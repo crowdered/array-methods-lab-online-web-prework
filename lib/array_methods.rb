@@ -5,7 +5,6 @@ array.include?(element)
 end
 element = ("Tardis")
 array.include?(element)
-end
 
 def using_sort(array)
 
