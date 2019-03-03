@@ -3,8 +3,10 @@ array = ["wow", "I", "am", "really", "learning", "arrays!"]
 element = ("wow")
 array.include?(element)
 end
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 element = ("Tardis")
 array.include?(element)
+end
 
 def using_sort(array)
 
